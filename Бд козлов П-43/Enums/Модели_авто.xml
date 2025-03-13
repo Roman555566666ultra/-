@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.19">
+	<Enum uuid="0faf50b2-5908-403a-95ca-1bafe7adc37c">
+		<InternalInfo>
+			<xr:GeneratedType name="EnumRef.Модели_авто" category="Ref">
+				<xr:TypeId>d3dda01c-ccb6-4583-a31c-1956bddb167a</xr:TypeId>
+				<xr:ValueId>0c29e93b-a92e-4a45-ae2b-f36eeac191e3</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="EnumManager.Модели_авто" category="Manager">
+				<xr:TypeId>2e34fcc9-1c97-4dde-93d1-fd2584410f91</xr:TypeId>
+				<xr:ValueId>67364a01-19a6-4809-801c-c7ceeb0c9a13</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="EnumList.Модели_авто" category="List">
+				<xr:TypeId>83274014-e32d-4a60-8a16-2e3f78644886</xr:TypeId>
+				<xr:ValueId>cea3370a-2678-46df-960d-3e9d116a6204</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<Name>Модели_авто</Name>
+			<Synonym>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Модели авто</v8:content>
+				</v8:item>
+			</Synonym>
+			<Comment/>
+			<UseStandardCommands>false</UseStandardCommands>
+			<Characteristics/>
+			<QuickChoice>true</QuickChoice>
+			<ChoiceMode>BothWays</ChoiceMode>
+			<DefaultListForm/>
+			<DefaultChoiceForm/>
+			<AuxiliaryListForm/>
+			<AuxiliaryChoiceForm/>
+			<ListPresentation/>
+			<ExtendedListPresentation/>
+			<Explanation/>
+			<ChoiceHistoryOnInput>Auto</ChoiceHistoryOnInput>
+		</Properties>
+		<ChildObjects>
+			<EnumValue uuid="32b225ab-6fd0-42b2-b496-4ade4580be1a">
+				<Properties>
+					<Name>СитиРитм10</Name>
+					<Synonym>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Сити ритм10</v8:content>
+						</v8:item>
+					</Synonym>
+					<Comment/>
+				</Properties>
+			</EnumValue>
+			<EnumValue uuid="1ab2c9c7-878a-4a93-bd7d-94b62c7e3b48">
+				<Properties>
+					<Name>ЛиАЗ4292</Name>
+					<Synonym>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Ли а з4292</v8:content>
+						</v8:item>
+					</Synonym>
+					<Comment/>
+				</Properties>
+			</EnumValue>
+			<EnumValue uuid="914965d2-c165-4ccd-908b-52976c0ae352">
+				<Properties>
+					<Name>ЛиАЗ6213</Name>
+					<Synonym>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Ли а з6213</v8:content>
+						</v8:item>
+					</Synonym>
+					<Comment/>
+				</Properties>
+			</EnumValue>
+			<EnumValue uuid="fa5a6358-0615-493f-be33-92100d69398e">
+				<Properties>
+					<Name>НефАЗ5299</Name>
+					<Synonym>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Неф а з5299</v8:content>
+						</v8:item>
+					</Synonym>
+					<Comment/>
+				</Properties>
+			</EnumValue>
+		</ChildObjects>
+	</Enum>
+</MetaDataObject>

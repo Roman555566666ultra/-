@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.19">
+	<Enum uuid="1e94093a-806a-4b2c-96d5-32adfecd1351">
+		<InternalInfo>
+			<xr:GeneratedType name="EnumRef.Да_Нет" category="Ref">
+				<xr:TypeId>a3dc1bef-e78b-464e-811b-d152c689d222</xr:TypeId>
+				<xr:ValueId>fe05d0cf-ff92-4ffa-a25a-258afbf42483</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="EnumManager.Да_Нет" category="Manager">
+				<xr:TypeId>638b9d44-bb57-4c53-939d-b3249492ca8e</xr:TypeId>
+				<xr:ValueId>db79621b-2e15-4cb0-8c18-bcd655830199</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="EnumList.Да_Нет" category="List">
+				<xr:TypeId>a55904d0-4b55-475b-b8d2-9a2ba544bf81</xr:TypeId>
+				<xr:ValueId>de29cd0a-38c4-498b-b013-4b3daeed91f9</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<Name>Да_Нет</Name>
+			<Synonym>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Да нет</v8:content>
+				</v8:item>
+			</Synonym>
+			<Comment/>
+			<UseStandardCommands>false</UseStandardCommands>
+			<Characteristics/>
+			<QuickChoice>true</QuickChoice>
+			<ChoiceMode>BothWays</ChoiceMode>
+			<DefaultListForm/>
+			<DefaultChoiceForm/>
+			<AuxiliaryListForm/>
+			<AuxiliaryChoiceForm/>
+			<ListPresentation/>
+			<ExtendedListPresentation/>
+			<Explanation/>
+			<ChoiceHistoryOnInput>Auto</ChoiceHistoryOnInput>
+		</Properties>
+		<ChildObjects>
+			<EnumValue uuid="80e9f777-e849-4821-a505-398945545891">
+				<Properties>
+					<Name>Да</Name>
+					<Synonym>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Да</v8:content>
+						</v8:item>
+					</Synonym>
+					<Comment/>
+				</Properties>
+			</EnumValue>
+			<EnumValue uuid="305c7c2c-0ce7-4d8f-aae3-51bf701f0975">
+				<Properties>
+					<Name>Нет</Name>
+					<Synonym>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Нет</v8:content>
+						</v8:item>
+					</Synonym>
+					<Comment/>
+				</Properties>
+			</EnumValue>
+		</ChildObjects>
+	</Enum>
+</MetaDataObject>

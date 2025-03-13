@@ -1,0 +1,113 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.19">
+	<ConfigVersions>
+		<Metadata name="Catalog.Автобусы" id="590634cc-f67b-4145-a2cb-002f533be3db" configVersion="c847b6107710b5429c2d945985fe7cca00000000">
+			<Metadata name="Catalog.Автобусы.Attribute.Вместимоть" id="03a3aa35-967a-4bf7-bf1f-c12d7d644cc2"/>
+			<Metadata name="Catalog.Автобусы.Attribute.Модели" id="c5abd383-a6e4-476d-9f48-fa2bcf535996"/>
+			<Metadata name="Catalog.Автобусы.Attribute.На_Ремонте" id="f42647e9-76a1-495f-9f32-4c5fa54409ff"/>
+		</Metadata>
+		<Metadata name="Catalog.Водители" id="45b23d03-777c-4672-93c6-8d0561751cb3" configVersion="0538f2844261424188e67d964aa1307700000000">
+			<Metadata name="Catalog.Водители.Attribute.Паспорт" id="48019091-fd5a-4c8b-a498-615e5a32ea00"/>
+			<Metadata name="Catalog.Водители.Attribute.Зарплата" id="8250fccd-d344-4059-a4c4-9244c498ece7"/>
+			<Metadata name="Catalog.Водители.Attribute.Место_Жительства" id="a54cbcd6-b91a-4c61-800e-00c4d313a842"/>
+		</Metadata>
+		<Metadata name="Catalog.Затраты_на_заправку" id="e8ec935a-5b91-42e0-aa52-f7f6144cad4e" configVersion="0c903a3f267ff644b404a0ac0658c62200000000">
+			<Metadata name="Catalog.Затраты_на_заправку.Attribute.Цена_За_Одну_Заправку" id="49681066-5d1f-4ba2-a87d-f44fc3da6f91"/>
+			<Metadata name="Catalog.Затраты_на_заправку.Attribute.Цена_За_Месяц" id="f37f7f6b-bf49-480f-a8d0-e79dcd727242"/>
+		</Metadata>
+		<Metadata name="Catalog.Клиенты" id="0abc28f7-1255-4b00-807e-d54754f4d1d9" configVersion="ef7c9da6d9edc54383627dd094eea55c00000000">
+			<Metadata name="Catalog.Клиенты.Attribute.Наличие_проездного" id="ac3ea203-5bfb-4369-87b2-bfab5b3e90ff"/>
+		</Metadata>
+		<Metadata name="Catalog.Коднукторы" id="c3f33aec-9425-46aa-a1da-c0d9d40ddd5b" configVersion="9e7ca9e87a97904c83d00f0751120d5600000000">
+			<Metadata name="Catalog.Коднукторы.Attribute.Место_Жительства" id="03c5dacf-7368-4cb0-b58f-59040d2c3403"/>
+			<Metadata name="Catalog.Коднукторы.Attribute.Паспорт" id="205136e9-14a0-4209-be7b-9c4219b39665"/>
+			<Metadata name="Catalog.Коднукторы.Attribute.Зарплата" id="23196524-fe7e-4350-a1c4-54e31e8a6825"/>
+		</Metadata>
+		<Metadata name="Catalog.Мастерские" id="d7841f28-505b-4120-bf58-9c276f9b13e8" configVersion="ab145b397e60194b8e80098eedc8147900000000">
+			<Metadata name="Catalog.Мастерские.Attribute.Отремонтирован" id="279a24ce-1a47-42b1-9f9a-c41fc92e72a3"/>
+			<Metadata name="Catalog.Мастерские.Attribute.Сотрудников" id="69ac71bf-afc8-49cd-a85f-4bad4d3fb878"/>
+			<Metadata name="Catalog.Мастерские.Attribute.Номер_Автобуса" id="7c0d52d2-2b1c-4b37-84e8-132bcafaafbe"/>
+		</Metadata>
+		<Metadata name="Catalog.Парковки" id="39547675-eb7e-4452-8a08-5239a8c07dc6" configVersion="3937e35754cbdf49ad311ad11de6f94c00000000">
+			<Metadata name="Catalog.Парковки.Attribute.Адресса" id="7e6432fb-b3f3-4dcf-818b-dcf6b7b95b2e"/>
+		</Metadata>
+		<Metadata name="Catalog.Расписание" id="0a7fc07e-9d11-4c0c-b086-692eeb006ef5" configVersion="3647ffe9726e0e489af59db2caa5f97a00000000">
+			<Metadata name="Catalog.Расписание.Attribute.Время" id="cbd2a330-81c4-4945-a14e-432c9f95106f"/>
+		</Metadata>
+		<Metadata name="Catalog.Страховка" id="bb4813df-a96d-439c-9bb1-8baa4660a72c" configVersion="940a24becc40f74d87850e3ccc31c4a000000000">
+			<Metadata name="Catalog.Страховка.Attribute.Номер_Автобуса" id="0708cc0e-3f0b-4c5c-b7bb-bfb7cb0f2a7b"/>
+			<Metadata name="Catalog.Страховка.Attribute.Дата_Окончания" id="784f3732-5129-498d-8cd7-29707bdedae4"/>
+		</Metadata>
+		<Metadata name="Catalog.Услуги" id="c53a198b-386a-4b7b-91a2-9c750dbd149b" configVersion="c91f404e2db33549ad4794319caebde400000000">
+			<Metadata name="Catalog.Услуги.Attribute.Цены" id="7b575082-6d88-4161-9479-29db8871ed6e"/>
+		</Metadata>
+		<Metadata name="Catalog.Участки" id="b1e9b703-1e1b-4c59-a762-b96abc7fc3d0" configVersion="b18138bfeded37438b925a71f0abe86900000000">
+			<Metadata name="Catalog.Участки.Attribute.Адресс" id="39d6ce50-4450-4f3d-9dd3-0c63d7d7183c"/>
+		</Metadata>
+		<Metadata name="Configuration.Конфигурация" id="fceb4862-84a5-4b37-9893-1de6750be7b9" configVersion="6dd23f742363014ca5bb5a7080d3d49600000000"/>
+		<Metadata name="DataProcessor.Обработка1" id="b5e26ce7-f647-4066-aec2-b8d2b51f0404" configVersion="73073ac215471040bc22420cba36170000000000"/>
+		<Metadata name="Document.Льготный_проездной" id="ff049557-dffb-4c45-bc38-598a003f7ce5" configVersion="c98753464a56e54d8c53857f9048cc9d00000000">
+			<Metadata name="Document.Льготный_проездной.Attribute.ФИО" id="21a0f0cb-574a-483f-a176-42c4878813de"/>
+			<Metadata name="Document.Льготный_проездной.Attribute.Причина" id="4978ca81-3b12-4009-9d19-5b08fbed1155"/>
+			<Metadata name="Document.Льготный_проездной.Attribute.Получен" id="65cab010-efb1-4506-ae6f-23cc715437e4"/>
+			<Metadata name="Document.Льготный_проездной.Attribute.Годен_До" id="f556591a-6b09-4a56-8ef7-99b4360c2820"/>
+		</Metadata>
+		<Metadata name="Document.Проездной" id="1165180a-5d3a-4a51-bda4-68a6d9dd96a8" configVersion="0c7aa97ea25945429e2770dc95012d1e00000000">
+			<Metadata name="Document.Проездной.Attribute.Годен_До" id="40d1b165-983d-4799-932a-9aabcc7dc028"/>
+			<Metadata name="Document.Проездной.Attribute.Получен" id="7fbdecb5-4de2-4ed5-89ad-c2a0e50ec876"/>
+			<Metadata name="Document.Проездной.Attribute.ФИО" id="c8189b6e-9696-492d-8729-dfdc341d89c0"/>
+		</Metadata>
+		<Metadata name="Enum.Да_Нет" id="1e94093a-806a-4b2c-96d5-32adfecd1351" configVersion="68d9337f59d2ab44afeb8b15c0afe1de00000000">
+			<Metadata name="Enum.Да_Нет.EnumValue.Нет" id="305c7c2c-0ce7-4d8f-aae3-51bf701f0975"/>
+			<Metadata name="Enum.Да_Нет.EnumValue.Да" id="80e9f777-e849-4821-a505-398945545891"/>
+		</Metadata>
+		<Metadata name="Enum.Модели_авто" id="0faf50b2-5908-403a-95ca-1bafe7adc37c" configVersion="f18eff4a50e1f84187fa06b38e38b72e00000000">
+			<Metadata name="Enum.Модели_авто.EnumValue.ЛиАЗ4292" id="1ab2c9c7-878a-4a93-bd7d-94b62c7e3b48"/>
+			<Metadata name="Enum.Модели_авто.EnumValue.СитиРитм10" id="32b225ab-6fd0-42b2-b496-4ade4580be1a"/>
+			<Metadata name="Enum.Модели_авто.EnumValue.ЛиАЗ6213" id="914965d2-c165-4ccd-908b-52976c0ae352"/>
+			<Metadata name="Enum.Модели_авто.EnumValue.НефАЗ5299" id="fa5a6358-0615-493f-be33-92100d69398e"/>
+		</Metadata>
+		<Metadata name="Enum.Парковка" id="d3eef962-8cdb-4f16-973f-3339b3e3e343" configVersion="ea5214badaaa4c45add92f36ef5a4c8200000000">
+			<Metadata name="Enum.Парковка.EnumValue.улВиктория" id="03d6659c-98f5-4491-b681-99c38f9f55e5"/>
+			<Metadata name="Enum.Парковка.EnumValue.УлСиница" id="4c2b3eb5-ab28-46f9-9fa3-dfee71b5a42a"/>
+			<Metadata name="Enum.Парковка.EnumValue.УлАлексея" id="4d7708f4-3575-4b9f-afcc-48a7a8034f9a"/>
+			<Metadata name="Enum.Парковка.EnumValue.ул79Петрова" id="d78a5b77-4493-4b6f-989c-4b5b093728cd"/>
+		</Metadata>
+		<Metadata name="Enum.Причина" id="4ca20529-c1b0-43da-92bc-589d3dbab1a7" configVersion="84d2ec3671ceb14083837d59a2b38f9f00000000">
+			<Metadata name="Enum.Причина.EnumValue.Школьник" id="0083c7ea-f0f8-45a1-a75d-9275f138f21c"/>
+			<Metadata name="Enum.Причина.EnumValue.Инвалид" id="59304455-1394-42db-8afe-3c34d0fe7edb"/>
+			<Metadata name="Enum.Причина.EnumValue.Пенсионер" id="60a32bb5-cedd-4db7-a1e1-d58bebbcec37"/>
+			<Metadata name="Enum.Причина.EnumValue.Военный" id="660b6fe2-510d-4b9d-b8ae-e427583cbcb1"/>
+		</Metadata>
+		<Metadata name="InformationRegister.Билеты" id="a6e59dfd-10ee-4b3a-878c-14bd432cacfb" configVersion="2d6554400dcb6e429aafc364fa639ef400000000">
+			<Metadata name="InformationRegister.Билеты.Dimension.Код_Маршрут" id="1506b36b-9ec3-42af-8a77-8fc3ec1e71a0"/>
+			<Metadata name="InformationRegister.Билеты.Dimension.Номер" id="bb7dbe34-5392-43db-aad4-dfbd253b401c"/>
+			<Metadata name="InformationRegister.Билеты.Dimension.Цена" id="f1253e91-718e-4947-add9-f8fccc37f9ac"/>
+		</Metadata>
+		<Metadata name="InformationRegister.Маршруты" id="10c3b56d-dcee-4738-81d2-367bab7c9838" configVersion="b0e3db3fe94e1d4582d9f415c0f2fa2800000000">
+			<Metadata name="InformationRegister.Маршруты.Dimension.Пункт_Посадки" id="50f15fff-4849-4536-ab47-e34020a3e463"/>
+			<Metadata name="InformationRegister.Маршруты.Dimension.Номер_Маршрута" id="75f8cc3e-2e9d-45c3-a66b-6012ef8a6ab8"/>
+			<Metadata name="InformationRegister.Маршруты.Dimension.Пункт_Высадки" id="8f23b64f-ce55-4a09-a8ad-5f50bf73ebf2"/>
+		</Metadata>
+		<Metadata name="InformationRegister.Ремонт" id="135cf5d8-cb1b-44de-b5c4-ccb66e95fa0c" configVersion="a605283f99f36845800d2fee756f040000000000">
+			<Metadata name="InformationRegister.Ремонт.Dimension.Цена_Ремонта" id="7210f82e-8cd2-41de-9d7c-0ed927f7b653"/>
+			<Metadata name="InformationRegister.Ремонт.Dimension.Номер_Ремонта" id="a39f52fd-76f4-4bac-a82b-83e25f1819a1"/>
+			<Metadata name="InformationRegister.Ремонт.Dimension.Номер_Автобуса" id="b6893a29-a704-4b34-9f14-3c6c36a6ef24"/>
+		</Metadata>
+		<Metadata name="Language.Русский" id="b5eb38d1-2d1d-4f1d-98e4-1432d911cf7d" configVersion="ebc9933901b77649bf89dc9881b40a7d00000000"/>
+		<Metadata name="Report.Автобусы" id="8073b463-9a41-46a3-9786-770a87a8734f" configVersion="0b9cffa57955ff439a20c96012b22ee600000000"/>
+		<Metadata name="Report.Автобусы.Template.ОсновнаяСхемаКомпоновкиДанных" id="fb762d0e-069e-4243-b794-b7b3d4d9ed6b" configVersion="0af65a1f31c4f14b89db5645313caed800000000"/>
+		<Metadata name="Report.Автобусы.Template.ОсновнаяСхемаКомпоновкиДанных.Template" id="fb762d0e-069e-4243-b794-b7b3d4d9ed6b.0" configVersion="6b61ddbf051a714cbe1866630614634600000000"/>
+		<Metadata name="Report.Кондуктора_Водители" id="2ea31e62-5a2d-4cce-ac0a-232cab5962c8" configVersion="f26f4e1fea71b14eb021f18f58cb985500000000"/>
+		<Metadata name="Report.Кондуктора_Водители.Template.ОсновнаяСхемаКомпоновкиДанных" id="3eece90d-3274-4c23-a7d1-13debb58f01f" configVersion="0ca745316cd310448f3eff07bd9cf1f400000000"/>
+		<Metadata name="Report.Кондуктора_Водители.Template.ОсновнаяСхемаКомпоновкиДанных.Template" id="3eece90d-3274-4c23-a7d1-13debb58f01f.0" configVersion="06a217edf5788240a9d5b00bdd1b976400000000"/>
+		<Metadata name="Report.Проездные" id="1c167924-2d97-4177-a997-42e26c897955" configVersion="1966c929c089844e8fbdc8b4371ffaad00000000"/>
+		<Metadata name="Report.Проездные.Template.ОсновнаяСхемаКомпоновкиДанных" id="63e9d87c-9b0e-4272-99b5-8c69d6b90c24" configVersion="0297f50bf1e1304f8217b8b4e801543b00000000"/>
+		<Metadata name="Report.Проездные.Template.ОсновнаяСхемаКомпоновкиДанных.Template" id="63e9d87c-9b0e-4272-99b5-8c69d6b90c24.0" configVersion="51450515365b554ea45404bee4b5123a00000000"/>
+		<Metadata name="Role.Админ" id="efa2c70d-6fa5-4b5f-88f4-64c79fbad94b" configVersion="52cd45c285e9eb4ba7b7a4f60852cdc500000000"/>
+		<Metadata name="Role.Админ.Rights" id="efa2c70d-6fa5-4b5f-88f4-64c79fbad94b.0" configVersion="b682e0d043bee94b9043c20cc360f38900000000"/>
+		<Metadata name="Role.Клиент" id="44f8d741-2ab7-4b48-9c52-713d00f5367b" configVersion="a24a68a9f561f54182828a7424d79f4000000000"/>
+		<Metadata name="Role.Клиент.Rights" id="44f8d741-2ab7-4b48-9c52-713d00f5367b.0" configVersion="ca0a79ed66b0f749be87e0985cf4bf3300000000"/>
+		<Metadata name="Subsystem.Система_автостанция" id="e7279d41-ebe5-426d-968b-88330c91e2ee" configVersion="e6fda7db882c0542b5cc62161cdb45ad00000000"/>
+	</ConfigVersions>
+</ConfigDumpInfo>
